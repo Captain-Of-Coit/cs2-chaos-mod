@@ -1,5 +1,9 @@
 ﻿# Cities: Skylines 2 - C# Mod template
 
+#### Notice
+> This mod was created during one of my live-streams (https://www.twitch.tv/captainofcoit) and it's very much "work in progress"
+> Crashes big cities if you press the button many times it seems
+
 This repository template allows you to get started with Cities: Skylines 2 modding easily, all the way to building your mod on commit with GitHub Actions and publishing your mod automatically on Thunderstore.
 
 - [Requirements](#requirements)
